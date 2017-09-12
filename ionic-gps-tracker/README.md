@@ -12,7 +12,7 @@ export PATH=$PATH:$ANDROID_HOME/tools
 
 * Tener instalado npm
 
-* Instalar ionic cordova:
+* Instalar ionic cordova (Se usa Ionic v1):
 ```
 $ sudo npm install -g ionic cordova
 ``` 
